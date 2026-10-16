@@ -1,11 +1,18 @@
 
 <div align="center">
 
-# 🌿 UMM AAĪSH
+#  UMM AAĪSH
 
 ### Medical Laboratory Science × Technology × Purpose
 
 *Medicine meets technology. Purpose meets innovation.*
+
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=16A34A&center=true&vCenter=true&width=600&lines=Medical+Laboratory+Science+Student;Aspiring+Developer;Healthcare+Technology+Enthusiast;Purposeful+Innovator)](https://git.io/typing-svg)
+
+</div>
 
 [![Healthcare Tech](https://img.shields.io/badge/Healthcare_Tech-0B0F0E?style=for-the-badge&logo=heart&logoColor=16A34A)](https://github.com/maryamowolabi433-maker)
 [![Web Development](https://img.shields.io/badge/Web_Development-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamowolabi433-maker)
@@ -15,22 +22,22 @@
 
 ---
 
-## 🌱 ABOUT ME
+##  ABOUT ME
 
 Hello! I'm **Owolabi Maryam Opeyemi**, a 200-level Medical Laboratory Science student at Federal University Lokoja, Nigeria.
 
 I'm exploring the intersection of healthcare, software development, user experience, and purposeful innovation. My goal is to grow into a developer who builds thoughtful digital experiences and explores technology's potential to address meaningful problems.
 
-- 🎓 Medical Laboratory Science student
-- 💻 Exploring web and mobile development
-- 🎨 Interested in UI/UX and human-centred design
-- 🩺 Passionate about healthcare technology and medical education
-- 🤖 Exploring AI-assisted learning
-- 🌿 Guided by faith, curiosity, creativity, and purpose
+-  Medical Laboratory Science student
+-  Exploring web and mobile development
+-  Interested in UI/UX and human-centred design
+-  Passionate about healthcare technology and medical education
+-  Exploring AI-assisted learning
+-  Guided by faith, curiosity, creativity, and purpose
 
 ---
 
-## 🧰 TECHNOLOGY & TOOLS
+##  TECHNOLOGY & TOOLS
 
 *My toolkit is evolving through learning and hands-on practice.*
 
@@ -50,21 +57,21 @@ I'm exploring the intersection of healthcare, software development, user experie
 
 ## 🚀 FEATURED PROJECTS
 
-### 🪴 MediBuddy
+###  MediBuddy
 **Your AI Study Buddy for Medical School**
 
 A concept for an AI-assisted medical study companion designed to support learning and revision.
 
 `Status: Concept & planning`
 
-### 🌉 CareBridge Lite
+###  CareBridge Lite
 **An Offline-First Referral & Follow-Up Concept**
 
 A healthcare innovation concept exploring better-coordinated referrals and follow-up in low-connectivity settings.
 
 `Status: Hackathon concept; implementation not yet established`
 
-### 🌿 Aesthz
+###  Aesthz
 **Modest Fashion E-Commerce Concept**
 
 A proposed online destination for hijabs, abayas, and niqabs.
@@ -78,7 +85,7 @@ A writing project about faith, personal growth, and navigating technology as a M
 
 ---
 
-## 💭 MY PHILOSOPHY
+##  MY PHILOSOPHY
 
 I believe technology is most valuable when it serves people with **intention, integrity, and care**.
 
@@ -88,7 +95,7 @@ My journey brings together medicine, creativity, faith, and technology. I'm lear
 
 ---
 
-## 📚 CURRENT FOCUS
+##  CURRENT FOCUS
 
 - Strengthening my web-development foundations
 - Exploring UI/UX and mobile app development
@@ -113,7 +120,7 @@ I'm open to mentorship, learning opportunities, meaningful collaboration, and co
 
 <div align="center">
 
-### 🌿 STILL LEARNING. STILL BUILDING. STILL BECOMING.
+###  STILL LEARNING. STILL BUILDING. STILL BECOMING.
 
 *Building with purpose. Learning with intention.*
 
