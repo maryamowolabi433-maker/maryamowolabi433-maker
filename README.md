@@ -1,145 +1,120 @@
-Umm Aaīsh
 
-Aspiring Full-Stack Developer | 200-Level Medical Laboratory Science Student
+<div align="center">
 
-Medicine meets technology. Purpose meets innovation.
+# 🌿 UMM AAĪSH
 
-Welcome to my GitHub portfolio!
+### Medical Laboratory Science × Technology × Purpose
 
-I'm Owolabi Maryam Opeyemi, a 200-level Medical Laboratory Science student at the Federal University Lokoja, Nigeria, based in the FCT, Abuja.
+*Medicine meets technology. Purpose meets innovation.*
 
-I'm passionate about the intersection of healthcare, technology, user experience, and purposeful innovation. My interests include web development, UI/UX design, and mobile application development. I'm continually developing my technical skills while exploring ways to create useful, accessible, and human-centred digital products.
+[![Healthcare Tech](https://img.shields.io/badge/Healthcare_Tech-0B0F0E?style=for-the-badge&logo=heart&logoColor=16A34A)](https://github.com/maryamowolabi433-maker)
+[![Web Development](https://img.shields.io/badge/Web_Development-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamowolabi433-maker)
+[![UI/UX](https://img.shields.io/badge/UI%2FUX-D4AF37?style=for-the-badge&logo=figma&logoColor=black)](https://github.com/maryamowolabi433-maker)
 
-My journey is driven by curiosity, faith, creativity, and the desire to turn meaningful ideas into practical solutions.
-
----
-
-🌱 About Me
-
-- Education: Medical Laboratory Science, Federal University Lokoja
-- Interests: Web Development, UI/UX Design, Mobile App Development
-- Innovation: Healthcare technology and medical education
-- Exploration: AI-assisted learning and digital product development
-- Writing: Between Sujud and Syntax — a book project in progress
-- Identity: A Muslimah exploring the possibilities of technology while remaining grounded in her values
-- Location: FCT, Abuja, Nigeria
-
-🚀 Featured Projects
-
-🪴 MediBuddy
-
-Your AI Study Buddy for Medical School
-
-A medical education project exploring an AI-assisted study companion designed to support medical students with learning and revision.
-
-Status: Concept and development planning.
-
-🌉 CareBridge Lite
-
-An Offline-First Referral and Follow-Up Concept
-
-A healthcare innovation concept developed for the NTC 2.0 Youth Health Innovation Hackathon 2026. It explores ways to make healthcare referrals and follow-up more coordinated, including in low-connectivity settings.
-
-Status: Hackathon concept; implementation and real-world outcomes are not yet established.
-
-🌿 Aesthz
-
-A Modest Fashion E-Commerce Brand Concept
-
-A proposed online destination for quality hijabs, abayas, and niqabs, with product sourcing from Nigerian shopping platforms and international brands.
-
-Status: Brand development and planning.
-
-📖 Between Sujud and Syntax
-
-A Muslimah's Journey in Tech
-
-An in-progress book blending personal reflections, practical lessons, and guidance about navigating technology as a Muslim woman.
-
-Status: Writing project in development.
-
-💻 Personal Portfolio
-
-A developing portfolio to document my technical growth, projects, creative work, and professional journey.
-
-Status: In progress.
+</div>
 
 ---
 
-🛠️ Technology & Tools
+## 🌱 ABOUT ME
 
-My technical toolkit is evolving through learning and project development.
+Hello! I'm **Owolabi Maryam Opeyemi**, a 200-level Medical Laboratory Science student at Federal University Lokoja, Nigeria.
 
-Languages & Web Foundations
+I'm exploring the intersection of healthcare, software development, user experience, and purposeful innovation. My goal is to grow into a developer who builds thoughtful digital experiences and explores technology's potential to address meaningful problems.
 
-- HTML
-- CSS
-- JavaScript
-- Python
-
-Development & Version Control
-
-- Git
-- GitHub
-- Visual Studio Code
-
-Design & Prototyping
-
-- UI/UX design exploration
-- Figma
-- Canva
-
-Development Platforms
-
-- Replit
-- Vercel
-- Mimo
-
-Areas of Interest
-
-- Responsive web development
-- Mobile application development
-- Human-centred design
-- AI-assisted educational tools
-- Healthcare technology
-
-Tools and skills will be refined as I document my practical experience and completed projects.
+- 🎓 Medical Laboratory Science student
+- 💻 Exploring web and mobile development
+- 🎨 Interested in UI/UX and human-centred design
+- 🩺 Passionate about healthcare technology and medical education
+- 🤖 Exploring AI-assisted learning
+- 🌿 Guided by faith, curiosity, creativity, and purpose
 
 ---
 
-💭 My Philosophy
+## 🧰 TECHNOLOGY & TOOLS
 
-I believe technology is most valuable when it serves people with intention, integrity, and care.
+*My toolkit is evolving through learning and hands-on practice.*
 
-My journey brings together medicine, software development, creativity, and faith. Each discipline teaches me to approach problems from a different perspective: to understand people, question assumptions, keep learning, and create with purpose.
+<div align="center">
 
-I don't believe growth requires having everything figured out. It requires the courage to begin, the humility to learn, and the discipline to improve.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-As I grow as a student, developer, and writer, I hope to contribute to solutions that make learning more accessible, healthcare more connected, and digital experiences more meaningful.
-
-My goal is not simply to build products, but to build products that matter.
-
----
-
-📚 Current Focus
-
-- Strengthening my web development foundations.
-- Exploring UI/UX design and mobile application development.
-- Developing and documenting purposeful project ideas.
-- Exploring healthcare and educational technology.
-- Writing Between Sujud and Syntax.
-- Building a portfolio that reflects continuous learning and responsible innovation.
+</div>
 
 ---
 
-🤝 Let's Connect
+## 🚀 FEATURED PROJECTS
 
-I'm open to learning opportunities, meaningful collaborations, mentorship, and conversations around technology, healthcare innovation, and design.
+### 🪴 MediBuddy
+**Your AI Study Buddy for Medical School**
 
-- GitHub: "maryamowolabi433-maker" (https://github.com/maryamowolabi433-maker)
+A concept for an AI-assisted medical study companion designed to support learning and revision.
+
+`Status: Concept & planning`
+
+### 🌉 CareBridge Lite
+**An Offline-First Referral & Follow-Up Concept**
+
+A healthcare innovation concept exploring better-coordinated referrals and follow-up in low-connectivity settings.
+
+`Status: Hackathon concept; implementation not yet established`
+
+### 🌿 Aesthz
+**Modest Fashion E-Commerce Concept**
+
+A proposed online destination for hijabs, abayas, and niqabs.
+
+`Status: Brand planning`
+
+### 📖 Between Sujud and Syntax
+A writing project about faith, personal growth, and navigating technology as a Muslimah.
+
+`Status: Writing in progress`
 
 ---
 
-<p align="center">
-  <i>Still learning. Still building. Still becoming. </i>
-</p>
+## 💭 MY PHILOSOPHY
+
+I believe technology is most valuable when it serves people with **intention, integrity, and care**.
+
+My journey brings together medicine, creativity, faith, and technology. I'm learning to turn curiosity into skills, ideas into thoughtful projects, and challenges into opportunities to grow.
+
+**I don't need to know everything to begin. I need the courage to learn, the discipline to practise, and the humility to improve.**
+
+---
+
+## 📚 CURRENT FOCUS
+
+- Strengthening my web-development foundations
+- Exploring UI/UX and mobile app development
+- Learning through practical projects
+- Exploring healthcare and educational technology
+- Writing *Between Sujud and Syntax*
+- Building my personal portfolio
+
+---
+
+## 🤝 LET'S CONNECT
+
+I'm open to mentorship, learning opportunities, meaningful collaboration, and conversations about healthcare innovation, technology, and design.
+
+📧 **Email:** [ummaaish9@gmail.com](mailto:ummaaish9@gmail.com)
+
+💻 **GitHub:** [maryamowolabi433-maker](https://github.com/maryamowolabi433-maker)
+
+𝕏 **X:** [@UmmAaish0433](https://x.com/UmmAaish0433)
+
+---
+
+<div align="center">
+
+### 🌿 STILL LEARNING. STILL BUILDING. STILL BECOMING.
+
+*Building with purpose. Learning with intention.*
+
+</div>
