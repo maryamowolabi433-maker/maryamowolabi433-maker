@@ -3,7 +3,7 @@
 
 #  UMM AAĪSH
 
-### Medical Laboratory Science × Technology × Purpose
+### Medical Laboratory Science | Technology | Purpose
 
 *Medicine meets technology. Purpose meets innovation.*
 
